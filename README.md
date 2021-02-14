@@ -2,7 +2,7 @@
 In this application one animation is given that you can use in your application.
 
 ## Working
-In this application one picture is taken of size 777*1600 pixels and fading animation is given to it. 
+In this application one picture of size 777*1600 pixels is taken and fading animation is given to it. 
 
 ## Output
 
